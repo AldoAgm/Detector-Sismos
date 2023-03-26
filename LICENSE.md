@@ -1,6 +1,6 @@
 MIT License
 
-Derechos de autor (c) [2023] [nombre del propietario del copyright]
+Derechos de autor (c) 2023 Aldo Alejandro Aguilar Morales
 
 Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados (el "Software"), para usar el Software sin restricciones, incluyendo sin limitación, los derechos de uso, copia, modificación, fusión, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que se les proporcione el Software hacer lo mismo, sujeto a las siguientes condiciones:
 
